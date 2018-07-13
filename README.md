@@ -11,15 +11,17 @@
  - 朱伟/男/1990 
  - 硕士/武汉大学软件工程
  - 工作年限：2年
- - 组件库：http://f2e.developer.163.com/neatui/index.html#/quickStart/zh-CN (Table\DatePicker\TimePicker\Carousel\Panel)
 
 ---
 
 # 工作经历
  - 网易北京研发中心（2016.07 ~ 现在）
+ 
+---
+# 项目经验
 
 ## 网易北京传媒科技有限公司 （ 2016.07 ~ 现在 ）
- 
+
 ### 网易号开放平台
  - 简介：PC端第三方用户后台管理系统
  - 涉及技术要点：
@@ -41,9 +43,10 @@
   - 移动端适配
   - 分享到各大平台（微信、微博、qq、浏览器）
   - React & Redux 技术栈
-
- 
+  
+---
 # 开源项目和作品
+
 ## NeatUI组件库
  - 项目介绍： 基于React的组件库
  - 文档地址： http://f2e.developer.163.com/neatui/index.html#/quickStart/zh-CN 
